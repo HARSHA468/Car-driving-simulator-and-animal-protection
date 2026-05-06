@@ -225,4 +225,4 @@ You can also support development by [buying a gorgeous A-Frame t-shirt with excl
 
 ## License
 
-This program is free software and is distributed under an [MIT License](LICENSE).
+This program is free software and is distributed under an [MIT License](LICENSE)....
